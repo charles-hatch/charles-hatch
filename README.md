@@ -1,5 +1,3 @@
-## CJ
-
 **EN**
 
 - Aspiring web developer
