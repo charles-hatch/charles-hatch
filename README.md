@@ -1,5 +1,10 @@
 **Web開発を勉強中**
-💬 JavaScript / HTML / CSS - スキルアップのために、プロジェクトを作成しています
+
+スキルアップのために、プロジェクトを作成しています
+
+💬 JavaScript / HTML / CSS 
+
+
 
 <!--
 **charles-hatch/charles-hatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
