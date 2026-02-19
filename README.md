@@ -1,14 +1,5 @@
-**EN**
-
-- Aspiring web developer
-- JavaScript, HTML, CSS
-- Learning by building small, practical projects
-
-**日本語**
-
-- Web開発を勉強中
-- JavaScript / HTML / CSS
-- 実践的な個人開発を通してスキル向上中
+**Web開発を勉強中**
+💬 JavaScript / HTML / CSS - スキルアップのために、プロジェクトを作成しています
 
 <!--
 **charles-hatch/charles-hatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
